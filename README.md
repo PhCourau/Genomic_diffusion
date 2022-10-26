@@ -1,5 +1,6 @@
 # Genomic_diffusion
 This repository contains the code of our article on quantitative genetics models.
+
 In the file concatenated_bridges.py you will find a function generate_genomic_diffusion implementing the first method described in our paper.
 
 
